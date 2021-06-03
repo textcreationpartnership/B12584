@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honorable entertainement gieuen to the Queenes Maiestie in progresse, at Eluetham in Hampshire, by the right honorable the Earle of Hertford. 1591</title>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12584</idno><idno type="EEBO-CITATION">99891572</idno>
+  <idno type="VID">193721</idno>
+  <idno type="EEBO-PROQUEST">2240923325</idno>
+  
+            <idno type="STC">STC 7583</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.33.e.7[9]</idno>
+            <idno type="PROQUEST">ocm99891572</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891572e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193721)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C28:1[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honorable entertainement gieuen to the Queenes Maiestie in progresse, at Eluetham in Hampshire, by the right honorable the Earle of Hertford. 1591</title>
+               </titleStmt>
+               <extent>[36] p. : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Wolfe, and are to bee sold at the little shop ouer against the great South dore of Paules.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1591..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms on t.p.; head-pieces, initials.</note>
+                  <note>Signatures: A-D&amp;#x201e; E&amp;#x201a;.</note>
+                  <note>Imperfect: considerable print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Elizabeth --  I, --  Queen of England, 1533-1603 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193721:1"/>
+            <pb facs="tcp:193721:1"/>
+            <p>THE HONORABLE Entertainement gieuen to the Queenes Maiestie in Progresse, at Elue<g ref="char:EOLhyphen"/>tham in Hampshire, by the right Honorable the Earle of Hertford. 1591</p>
+            <figure>
+               <figDesc>coat of arms of Edward Seymour, Earl of Hertford</figDesc>
+               <q>A L'AMY FIDELE POVR IAMAIS</q>
+            </figure>
+            <p>LONDON. Printed by Iohn Wolfe, and are to bee sold at the little Shop ouer against the great South dore of Paules. 1591.</p>
+         </div>
+         <div type="proem">
+            <pb facs="tcp:193721:2"/>
+            <pb facs="tcp:193721:2"/>
+            <head>The Proëme.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I declare the iust time or manner of her Maiesties arriuall and entertainment at <hi>Eluetham,</hi> it is needful (for the Readers better vnder<g ref="char:EOLhyphen"/>standing of euerie part and processe in my discourse) that I set downe as well the conueniencie of the place, as also the suffising, by art and labour, of what the place in it selfe could not affoord on the sodaine, for receipt of so great a Maiestie, and so honorable a traine.</p>
+            <p>
+               <hi>Eluetham</hi> house beeing scituate in a Parke but of two miles in compasse or thereabouts, and of no great receipt, as beeing none of the Earles chiefe mansion houses; yet for the desire he had to shew his vnfained loue, and loyall duetie to her most gratious highnesse, purposing to visite him in this her late progresse, whereof he had to vnderstand by the ordinarie Gesse, as also by his honorable good frendes in Court, neare to her Maiestie: his Honor with all expedition set Ar<g ref="char:EOLhyphen"/>tificers a work, to the number of three hundred,
+<pb facs="tcp:193721:3"/>many daies before her Maiesties arriuall, to in<g ref="char:EOLhyphen"/>large his house with newe roomes and offices. Whereof I omit to speake how manie were de<g ref="char:EOLhyphen"/>stined to the offices of the Queenes houshold, and will onlie make mention of other such buil<g ref="char:EOLhyphen"/>dings, as were raised on the sodaine, fourteene score off from the house on a hill side, within the said Parke, for entertainement of Nobles, Gentlemen, and others whatsoeuer.</p>
+            <p>First there was made a roome of Estate for the Nobles, and at the end thereof a withdraw<g ref="char:EOLhyphen"/>ing place for her maiestie. The outsides of the walles were all couered with boughes, and clu<g ref="char:EOLhyphen"/>sters of ripe hasell nuttes, the insides with Arras, the roofe of the place with works of Iuy leaues, the floore with sweet herbes and greene rushes.</p>
+            <p>Neare adioining vnto this, were many offi<g ref="char:EOLhyphen"/>ces new builded; as namely, Spicerie, Larderie, Chaundrie, Wine-seller, Ewery, and Panterie: all which were tyled.</p>
+            <p>Not farre off, was erected a large Hall, for en<g ref="char:EOLhyphen"/>tertainment of Knights, Ladies, and Gentlemen of chiefe account.</p>
+            <p>There was also a seuerall place for her maie<g ref="char:EOLhyphen"/>sties footemen, and their friends.</p>
+            <p>Then was there a long Bowre for her maie<g ref="char:EOLhyphen"/>sties Guard.</p>
+            <p>An other for other Officers of her Ma. house.</p>
+            <p>An other to entertaine all commers, suiters, and such like.</p>
+            <pb facs="tcp:193721:3"/>
+            <p>An other for my Lords Steward, to keepe his table in.</p>
+            <p>An other for his Gentlemen that waited.</p>
+            <p>
+               <hi>Most of these foresaid roomes were furnished with ta<g ref="char:EOLhyphen"/>bles, and the tables carried</hi> 23. <hi>yards in length.</hi>
+            </p>
+            <p>Moreouer on the same hill, there was raised a great common buttrey.</p>
+            <p>A pitcher house.</p>
+            <p>A large pastery, with siue ouens new built, some of them foureteene foote deepe.</p>
+            <p>A great kitchin with four ranges, and a boy<g ref="char:EOLhyphen"/>ling place for small boild meates.</p>
+            <p>An other kitchin with a very long range, for the waste, to serue all commers.</p>
+            <p>A boiling house for the great boiler.</p>
+            <p>A roome for the scullery.</p>
+            <p>An other roome for the Cookes lodgings.</p>
+            <p>
+               <hi>Some of these were couered with canuas, and other some with bordes.</hi>
+            </p>
+            <p>Betweene my Lords house and the foresayd hill, where these roomes were raised, there had beene made in the bottom by handy labour, a goodly pond, cut to the perfect figure of a half moon. In this pond were three notable groūds, where hence to present her M. with sports, and pastimes. The first was a <hi>Ship Ile</hi> of 100. foot in length, and 40. foote broad: bearing three trees orderly set for 3. masts. The second was a <hi>Fort</hi> 20. foot square euery way, and ouergrown with willows. The 3. &amp; last was a <hi>Snayl mount,</hi> rising to
+<pb facs="tcp:193721:4"/>foure circles of greene priuie hedges, the whole in height twentie foot, and fortie foote broad at the bottome. These three places were equally distant from the sides of the ponde, and euerie one by a iust measured proportion distant from other. In the said water were diuers boates pre<g ref="char:EOLhyphen"/>pared for Musicke; but especially there was a Pinnace, ful furnisht with masts, yards, sailes, an<g ref="char:EOLhyphen"/>chors, cables, and all other ordinarie tackling; &amp; with iron peeces; and lastly with flagges, strea<g ref="char:EOLhyphen"/>mers, and pendants, to the number of twelue, all painted with diuers colours, and sundry deuises. To what vse these particulars serued, it shall eui<g ref="char:EOLhyphen"/>dently appeare by that which followeth. And therefore I am to request the gentle Reader, that when any of these places are briefly specifi<g ref="char:EOLhyphen"/>ed in the sequele of this discourse, it will please him to haue reference to this fore-description; that in auoiding tantilogies, or reiterations, I may not seeme to them obscure, whom I studie to please with my plainnesse. For Proeme these may suffise: nowe to the matter it selfe: that it may be <hi>vltimū inexecutione</hi> (to vse the old phrase) <hi>quod primum fuit in intentione,</hi> as is vsuall to good carpenters, who intending to build a house, yet first lay their foundation, &amp; square many a post, and fasten manie a rafter, before the house be set vp: what they first purposed is last done. And thus much for excuse of a long foundation to a short building.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="entertainment">
+            <pb facs="tcp:193721:4"/>
+            <head>The first daies entertainment.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the tvventith day of sep<g ref="char:EOLhyphen"/>tember being Munday, my Lord of Hertford ioyfully expecting her Maiesties comming to Eluetham to supper, as her Highnes had promised: after dinner, vvhen euery other needful place or point of seruice vvas esta<g ref="char:EOLhyphen"/>blished and set in order, for so great an en<g ref="char:EOLhyphen"/>tertainment, about three of the clocke his Honor seing all his Retinevv vvell moun<g ref="char:EOLhyphen"/>ted and ready to attend his pleasure, hee drevv them secretly into a chief thicket of the Parke, vvhere in fevv vvords, but vvell couched to the purpose, hee put them in mind, vvhat quietnes, and vvhat diligence, or other duetie they vvere to vse at that present: that their seruice might first vvork her Maiesties content, &amp; thereby his Ho<g ref="char:EOLhyphen"/>nor, and lastlie their ovvn credite, vvith in<g ref="char:EOLhyphen"/>crese of his loue &amp; fauour tovvards them. This done, my Lord vvith his traine (a<g ref="char:EOLhyphen"/>mounting to the number of 3. hundred, and most of them vvearing chains of gold about their necks, and in their hats Yel<g ref="char:EOLhyphen"/>lovv and Black feathers) met vvith her Ma<g ref="char:EOLhyphen"/>iestie tvvo miles off, then comming to El<g ref="char:EOLhyphen"/>uetham
+<pb facs="tcp:193721:5"/>from her ovvne house of Odiham four miles from thence. As my Lorde in this first action shevved himselfe dutiful, so her Maiesty vvas to him and his most gra<g ref="char:EOLhyphen"/>cious, as also in the sequel betvveen fiue &amp; sixe of the clock, vvhen her Highnes be<g ref="char:EOLhyphen"/>ing most honorably atteded, entred into Eluetham Parke, and vvas more then halfe vvay betvveen the Park gate &amp; the house, a Poet saluted her vvith a Latine Oration in Heroicall verse, I mean <hi>veridicus vates,</hi> a sooth saying Poet, nothing inferior for truth, and little for deliuery of his mind, to an ordinarie Orator. This Poet vvas clad in greene, to signify the ioy of his thoughts, at her entrance a laurel garland on his head, to expresse that <hi>Apollo</hi> vvas patrone of his studies: an oliue branch in his hand, to declare vvhat continual peace and plentie he did both vvish and aboade her Maiestie: and lastly booted, to beto<g ref="char:EOLhyphen"/>ken that hee vvas <hi>vates cothurnatus,</hi> and not a loose or lovve creeping Prophet, as Poets are interpreted by some idle or en<g ref="char:EOLhyphen"/>uious ignorants.</p>
+            <pb facs="tcp:193721:5"/>
+            <p>This Poets boy offered him a cushion at his first kneeling to her Maiestie, but he refused it, saying as follovveth.</p>
+            <sp>
+               <stage>The Poet to his boy offering him a Cushion.</stage>
+               <lg xml:lang="lat">
+                  <l>Non iam puluillis opus est, sed corde sereno:</l>
+                  <l>Nam plusquám solitis istic aduoluimur aris.</l>
+               </lg>
+            </sp>
+            <lg xml:lang="lat">
+               <head>The Poets speach to her <hi>Maiestie.</hi>
+               </head>
+               <l>NVper ad Aönium flexo dum poplite fontem</l>
+               <l>Indulsi placido, Phoebi sub pectine, somne,</l>
+               <l>Ʋeridicos inter vates, quos Entheus ardor</l>
+               <l>Possidet, &amp; virtus nullis offusa lituris,</l>
+               <l>Talia securo cantabant carmina Musae.</l>
+               <l>Aspicis insueto tingentem lumine coelum</l>
+               <l>Anglorum nostro maiorem nomine Nympham</l>
+               <l>Os, humerósque Deae similem, dum tuta Semeri</l>
+               <l>Tecta petit, qualis dilecta Philaemonis olim</l>
+               <l>Cannea coelicolûm subijt magalia rector?</l>
+               <l>Olli tu blandas humili dic ore salutes:</l>
+               <l>Nos dabimus numeros, numeros dabit ipsus A<g ref="char:EOLhyphen"/>pollo.</l>
+               <pb facs="tcp:193721:6"/>
+               <l>Sed metues Tantae summas attingere laudes:</l>
+               <l>Nam specie Solem, Superos virtutibus aequans,</l>
+               <l>Maiestate locum, sacrisque timoribus implet.</l>
+               <l>Doctior est nobis, &amp; nobis praesidet vna:</l>
+               <l>Ditior est Ponto, Pontum quo{que} temperat vna:</l>
+               <l>Pulchrior est nymphis, et nymphis imperat vna</l>
+               <l>Dignior est Diuis, &amp; Diuos allicit vna.</l>
+               <l>En supplex adsum, Musarū numine ductus,</l>
+               <l>Et meritis <hi>(Augusta)</hi> tuis, ô dulcis <hi>Elisa,</hi>
+               </l>
+               <l>Fronte serenata modicum dignare poëtam,</l>
+               <l>Né mea vernantem deponant tempora laurum,</l>
+               <l>Et miser in cantu mortar. Senám{que} Semeri</l>
+               <l>Obsequiosa meis condit persona sub vmbris:</l>
+               <l>Qui fert ore preces, oculo foecundat oliuam;</l>
+               <l>Officium precibus, pacem designat oliua;</l>
+               <l>Affectum docet officijs, &amp; pace quietem;</l>
+               <l>Mentes affectu mulcebit, membra quiete.</l>
+               <l>Hi mores, haec vera tui persona Semeri,</l>
+               <l>Cui laetum sine te nihil, illaetabile tecum</l>
+               <l>Est nihil. En rident ad vestros omnia vultus</l>
+               <l>Suauiter, immensum donec fulgoribus orbem</l>
+               <l>
+                  <hi>Elisabetha</hi> nouis imples: nox inuidet vna:</l>
+               <l>Astra sed inuidiae tollunt mala signatenebras.</l>
+               <l>Caetera, qua possunt, sacrae gratantur <hi>Elisae</hi>
+               </l>
+               <l>Laetitia, promptós{que} ferunt in gaudia vultus.</l>
+               <l>Limulus insultat per pictos hoedus agellos</l>
+               <pb facs="tcp:193721:6"/>
+               <l>Passibus obtortis; et tor uum bucula taurum</l>
+               <l>Blāda petit; tremulus turgescit frōdibus arbos,</l>
+               <l>Graminibus pratum, generosa pampinus vua:</l>
+               <l>Et tenui latices in arena dulce susurrant,</l>
+               <l>Insuetúm{que} melos: Te, te, dulcissima Princeps,</l>
+               <l>Terra, polus, fluuij, plantae, pecudés{que} salutant:</l>
+               <l>Dúm{que} tuam cupidè mirātur singula formam,</l>
+               <l>Infixis haerent oculis, nequeunt{que} tuendo</l>
+               <l>Expleri; solitis sed nunc liberrima curis,</l>
+               <l>In placidos abeūt animos: non semina vermes,</l>
+               <l>Non cerui metuunt casses, non herba calorem,</l>
+               <l>Non viscū volucres, non fruges grandinis ictū.</l>
+               <l>Oistos <hi>(Augusta)</hi> dies, ô profer in annos;</l>
+               <l>Et lustrum ex annis, è lustris saecula surgant;</l>
+               <l>E saeclis aeuum, nullo numerabile motu:</l>
+               <l>Vt nostros dudum quotquot risere dolores,</l>
+               <l>Gaudia iam numerent, intabescánt{que} vidēdo.</l>
+               <l>En, iter obiecto quà clauserat obice Liuor,</l>
+               <l>Virtutis famulae Charites, castrí{que} superni</l>
+               <l>Custodes Horae, blandissima numina, iunctim</l>
+               <l>Iam tollunt remoras, vt arenā floribus ornent.</l>
+               <l>Ergò age, supplicibus succede penatibus hos<g ref="char:EOLhyphen"/>pes,</l>
+               <l>Et nutu moderare tuo: Tibi singula parēt,</l>
+               <l>Et nisi parêrent Tibi singula, tota perirent.</l>
+               <l>Dicite Iō <hi>Paean,</hi> et Iō ter dicite <hi>Paean,</hi>
+               </l>
+               <l>Spargite flore vias, &amp; mollem cantibus aurā.</l>
+            </lg>
+            <pb facs="tcp:193721:7"/>
+            <p>Because all our Countrey-men are not Latinists, I thinke it not amisse to set this dovvne in English, that all may bee indif<g ref="char:EOLhyphen"/>ferently partakers of the Poets meaning.</p>
+            <sp>
+               <stage>The Poets speech to his boy of<g ref="char:EOLhyphen"/>fering him a Cushion.</stage>
+               <lg>
+                  <l>Now let vs vse no Cushions, but faire hearts:</l>
+                  <l>For now we kneel to more then vsuall <hi>Saints.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <lg>
+                  <head>The Poets speech to her Maiestie.</head>
+                  <l>WHile at the fountaine of the sacred hill,</l>
+                  <l>Vnder <hi>Apollos</hi> lute, I sweetly slept,</l>
+                  <l>Mongst prophets full possest with holy fury,</l>
+                  <l>And with true vertue, void of all disdaine:</l>
+                  <l>The <hi>Muses</hi> sung, and wak'd me with these wordes.</l>
+                  <l>Seest thou that <hi>English Nimph,</hi> in face and shape</l>
+                  <l>Resembling some great <hi>Goddesse,</hi> and whose beames</l>
+                  <l>Doe sprinkle heau'n with vnacquainted light,</l>
+                  <l>While shee doth visite <hi>Semers</hi> fraudlesse house,</l>
+                  <l>As <hi>Iupiter</hi> did honour with his presence</l>
+                  <l>The poore thatcht cottage, where <hi>Philaemon</hi> dwelt?</l>
+                  <l>See thou salute her with an humble voice;</l>
+                  <l>
+                     <hi>Phoebus,</hi> and we, will let thee lacke no verses.</l>
+                  <pb facs="tcp:193721:7"/>
+                  <l>But dare not once aspire to touch her praise,</l>
+                  <l>Who like the <hi>Sunne</hi> for shew, to Gods for vertue,</l>
+                  <l>Fils all with <hi>Maiesty,</hi> and holy feare.</l>
+                  <l>More learned then our selues, shee ruleth vs:</l>
+                  <l>More rich then seas, shee doth commaund the seas:</l>
+                  <l>More fair then <hi>Nimphs,</hi> she gouerns al the <hi>Nimphs</hi>
+                  </l>
+                  <l>More worthy then the <hi>Gods,</hi> shee wins the <hi>Gods.</hi>
+                  </l>
+                  <l>Behold <hi>(Augusta)</hi> thy poore suppliant</l>
+                  <l>Is here, at their desire, but thy desert.</l>
+                  <l>O sweete <hi>Elisa,</hi> grace me with a looke,</l>
+                  <l>Or from my browes this Laurell wreath will fall,</l>
+                  <l>And I vnhappy die amidst my song.</l>
+                  <l>Vnder my person <hi>Semer</hi> hides himselfe,</l>
+                  <l>His mouth yeelds pray'rs, his eie the Oliue branch;</l>
+                  <l>His praiers betoken duety, th'O liue peace;</l>
+                  <l>His duety argues loue, his peace faire rest;</l>
+                  <l>His loue will smooth your minde, faire rest your body.</l>
+                  <l>This is your <hi>Semers</hi> heart and quality:</l>
+                  <l>To whom all things are ioyes, while thou art present,</l>
+                  <l>To whom nothing is pleasing, in thine absence.</l>
+                  <l>Behold, on thee how each thing sweetly smiles,</l>
+                  <l>To see thy brightnes glad our hemispheare:</l>
+                  <l>Night only enuies: whome faire stars doe crosse:</l>
+                  <l>All other creatures striue to shew their ioyes.</l>
+                  <l>The crooked-winding kid trips ore the lawnes;</l>
+                  <l>The milkewhite heafer wantons with the bull;</l>
+                  <l>The trees shew pleasure with their quiuiring leaues,</l>
+                  <l>The meddow with new grasse, the vine with grapes,</l>
+                  <l>The running brookes with sweet and siluer sound.</l>
+                  <l>Thee, thee <hi>(Sweet Princes)</hi> heau'n, &amp; earth, &amp; fluds,</l>
+                  <pb facs="tcp:193721:8"/>
+                  <l>And plants, and beasts, salute with one accord:</l>
+                  <l>And while they gaze on thy perfections,</l>
+                  <l>Their eyes desire is neuer satisfied.</l>
+                  <l>Thy presence frees each thing, that liu'd in doubt:</l>
+                  <l>No seedes now feare the biting of the woorme;</l>
+                  <l>Nor deere the toyles; nor grasse the parching heat;</l>
+                  <l>Nor Birds the snare; nor corne the storme of haile.</l>
+                  <l>O <hi>Empresse,</hi> ô draw foorth these dayes to yeares,</l>
+                  <l>Yeeres to an age, ages to aeternitie:</l>
+                  <l>That such as lately ioyd to see our sorrowes,</l>
+                  <l>May sorrow now, to see our perfect ioyes.</l>
+                  <l>Behold where all the <hi>Graces,</hi> vertues maydes,</l>
+                  <l>And lightfoote <hi>Howrs,</hi> the guardians of heau'ns gate,</l>
+                  <l>With ioyned forces doe remoue those blocks,</l>
+                  <l>Which <hi>Enuie</hi> layd in <hi>Maiesties</hi> highway.</l>
+                  <l>Come therefore, come vnder our humble roofe,</l>
+                  <l>And with a becke commaund what it containes:</l>
+                  <l>For all is thine: each part obeys thy will;</l>
+                  <l>Did not each part obey, the wholl should perish.</l>
+                  <l>Sing songs faire <hi>Nymphs,</hi> sing sweet triumphal songs,</l>
+                  <l>Fill wayes with flowrs, and th'ayr with harmony.</l>
+               </lg>
+            </sp>
+            <p>While the Poet was pronouncing this orati<g ref="char:EOLhyphen"/>on, six Virgins were behind him, busily remoo<g ref="char:EOLhyphen"/>uing blockes out of her maiesties way; which blocks were supposed to bee layde there by the person of <hi>Enuie,</hi> whose condition is, to enuie at euery good thing, but especially to malice the proceedings of <hi>Vertue,</hi> and the glory of true <hi>Ma<g ref="char:EOLhyphen"/>iestie.</hi> Three of these Virgins represented the
+<pb facs="tcp:193721:8"/>three Graces, and the other three, the <hi>Howres,</hi> which by the Poets are fained to be the guardi<g ref="char:EOLhyphen"/>ans of heauen gates. They were all attired in gowns of taffata sarcenet of diuers colours, with flowrie garlands on their heads, and baskets full of sweet hearbs and flowers vppon their armes. When the Poets speach was happily ended, and in a scroule deliuered to her maiestie (for such was her gratious acceptance, that she deined to receiue it with her owne hande) then these sixe Virgins, after performance of their humble re<g ref="char:EOLhyphen"/>uerence to her highnesse, walked on before her towards the house, strewing the way with flow<g ref="char:EOLhyphen"/>ers, and singing a sweete song of six parts to this dittie, which followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>The Dittie of the six Virgins song.</head>
+                        <lg>
+                           <l>VVIth fragrant flowers we strew the way</l>
+                           <l>And make this our chiefe holliday:</l>
+                           <l>For though this clime were blest of yore,</l>
+                           <l>Yet was it neuer proud before,</l>
+                           <l>O beauteous Queene of second Troy,</l>
+                           <l>Accept of our vnfained ioy.</l>
+                        </lg>
+                        <lg>
+                           <l>Now th'ayre is sweeter then sweet balme,</l>
+                           <l>And <hi>Satyrs</hi> daunce about the palme:</l>
+                           <l>Now earth with verdure newly dight,</l>
+                           <l>Giues perfect signe of her delight.</l>
+                           <l>O beauteous Queene of second Troy,</l>
+                           <l>Accept of our vnfained ioy.</l>
+                        </lg>
+                        <pb facs="tcp:193721:9"/>
+                        <lg>
+                           <l>Now birds record new harmonie,</l>
+                           <l>And trees doe whistle melodie:</l>
+                           <l>Now euerie thing that nature breeds,</l>
+                           <l>Doth clad it selfe in pleasant weeds.</l>
+                           <l>O beauteous Queene of second Troy,</l>
+                           <l>Accept of our vnfained ioy.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This song ended with her Maiesties entrance into the house: where shee had not rested her a quarter of an houre: but from the Snail-mount, and the Ship-Ile in the Pond (both being neare vnder the prospect of her Gallerie windowe) there was a long volley of Chambers dischar<g ref="char:EOLhyphen"/>ged. After this, supper was serued in, first to her Maiestie, and then to the Nobles and others. Were it not that I would not seem to flatter the honorable minded Earle: or, but that I feare to displease him, who rather desired to expresse his loyall dutie in his liberall bountie, then to heare of it againe, I could heere willingly particulate the store of his cheare and prouision, as likewise the carefull and kind diligence of his seruantes, expressed in their quiet seruice to her Maiestie, and the Nobility, and by their louing entertain<g ref="char:EOLhyphen"/>ment to all other, frends, or strangers. But I leaue the bountie of the one, and the industrie of the others, to the iust report of such as beheld, or ta<g ref="char:EOLhyphen"/>sted the plentifull abundance of that time and place.</p>
+            <p>After supper was ended, her Maiestie graci<g ref="char:EOLhyphen"/>ously
+<pb facs="tcp:193721:9"/>admitted vnto her presence a notable con<g ref="char:EOLhyphen"/>sort of six Musitions, which my Lord of Hert<g ref="char:EOLhyphen"/>ford had prouided to entertaine her Maiestie withall, at her will and pleasure, and when it should seeme good to her highnesse. Their Mu<g ref="char:EOLhyphen"/>sicke so highly pleased her, that in grace and fa<g ref="char:EOLhyphen"/>uour thereof, she gaue a newe name vnto one of their Pauans, made long since by Master <hi>Thomas Morley,</hi> then Organist of Paules Church.</p>
+            <p>These are the chiefe pointes, which I noted in the first daies entertainment. Now therefore it followeth, that I proceed to the second.</p>
+         </div>
+         <div n="2" type="entertainment">
+            <head>THE SECOND daies entertainment.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the next day following, being Tuesday, and Saint Mathewes festiuall, the forenoone was so wet and stormie, that nothing of pleasure could bee presented her Maiestie. Yet it helde vp a little before dinner time, and all the day after: where otherwise faire sports would haue beene buried in foule weather.</p>
+            <pb facs="tcp:193721:10"/>
+            <p>This day her maiestie dined, with her No<g ref="char:EOLhyphen"/>bles about her in the roome of estate, new buil<g ref="char:EOLhyphen"/>ded on the hil side, aboue the Ponds head. Ther sate below her, many Lords, Ladies, &amp; Knights. The manner of seruice, and abundance of dain<g ref="char:EOLhyphen"/>ties, I omit vpon iust consideration, as also the Ordinance discharged in the beginning of din<g ref="char:EOLhyphen"/>ner.</p>
+            <p>Presently after dinner, my Lord of Hertford caused a large Canapie of estate to bee set at the ponds head, for her maiestie to sit vnder, and to view some sportes prepared in the water. The Canapie was of greene satten, lined with greene taffeta sarcenet; euerie seame couered with a broad siluer lace; valenced about, and fringed with greene silke and siluer, more then a hand<g ref="char:EOLhyphen"/>bredth in depth; supported with four siluer pil<g ref="char:EOLhyphen"/>lers moueable; and deckt aboue head with four white plumes, spangled with siluer. This Cana<g ref="char:EOLhyphen"/>pie being vpheld by foure of my Lordes chiefe Gentlemen, and tapestry spread all about the pondes head, her maiestie about foure of the clocke came, and sate vnder it, to expect the issue of some deuise, being aduertised, that there was some such thing towards.</p>
+            <p>At the further end of the ponde, there was a Bower, close built to the brinke thereof; out of which ther went a pompous aray of seapersons, which waded bresthigh, or swam til they appro<g ref="char:EOLhyphen"/>ched neare the seat of her maiestie. <hi>Nereus,</hi> the
+<pb facs="tcp:193721:10"/>prophet of the sea, attired in redde silke, and ha<g ref="char:EOLhyphen"/>uing a cornerd-cappe on his curlde heade, did swimme before the rest, as their pastor &amp; guide. After him came fiue Tritons brest-high in the water, all with grislie heades, and beardes of di<g ref="char:EOLhyphen"/>uers colours and fashions, and all fiue cheere<g ref="char:EOLhyphen"/>fully sounding their Trumpets. After them went two other Gods of the sea, <hi>Neptune</hi> and <hi>O<g ref="char:EOLhyphen"/>ceanus,</hi> leading betweene them that Pinnace, whereof I spake in the beginning of this Trea<g ref="char:EOLhyphen"/>tise.</p>
+            <p>In the pinnace were three Virgins, which with their Cornets played Scottish Gigs, made three parts in one. There was also in the saide pinnace an other Nymph of the sea, named <hi>Ne<g ref="char:EOLhyphen"/>aera,</hi> the old supposed loue of <hi>Syluanus,</hi> a God of the woodes. Neare to her were placed three ex<g ref="char:EOLhyphen"/>cellent voices, to sing to one lute, and in two o<g ref="char:EOLhyphen"/>ther boats hard by, other lutes and voices to an<g ref="char:EOLhyphen"/>swer by manner of Eccho: after the pinnace, &amp; two other boats, which were drawne after it by other Sea-gods, the rest of the traine followed brest-high in the water, all attired in ouglie ma<g ref="char:EOLhyphen"/>rine suites, and euerie one armed with a huge woodden squirt in his hand: to what end it shal appear hereafter. In their marching towards the pond, all along the middle of the current, the Tritons sounded one halfe of the way, and then they ceasing, the Cornets plaid their Scottish gigs. The melody was sweet, &amp; the shew stately.</p>
+            <pb facs="tcp:193721:11"/>
+            <p>By the way it is <gap reason="illegible" resp="#uom" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ll to touch here many thinges abruptly, for the better vnderstanding of that which followeth.</p>
+            <p>First, that in the Pinnace are two iewels to be presented her Maiestie: the one by <hi>Nereus,</hi> the other by <hi>Neaera.</hi>
+            </p>
+            <p>Secondly, that the Fort in the Pond, is round enuironed with armed men.</p>
+            <p>Thirdly, that the Snayle-mount nowe resem<g ref="char:EOLhyphen"/>bleth a monster, hauing hornes full of wild-fire continually burning.</p>
+            <p>And lastly, that the God <hi>Siluanus,</hi> lieth with his traine not farre off in the woodes, and will shortly salute her Maiestie, and present her with a holly scutchion, wherein <hi>Apollo</hi> had long since written her praises.</p>
+            <p>All this remembred and considered, I nowe returne to the Sea-gods, who hauing vnder the conduct of <hi>Nereus</hi> brought the Pinnace neare before her Maiestie, <hi>Nereus</hi> made his Oration, as followeth; but before he began, hee made a priuie signe vnto one of his traine, which was gotten vp into the Shippe-Ile, directly before her Maiestie, and hee presently did cast himselfe downe, dooing a Summerset from the Ile into the water, and then swam to his companie.</p>
+            <pb facs="tcp:193721:11"/>
+            <sp>
+               <lg>
+                  <head>The Oration of Nereus to her Maiesty.</head>
+                  <l>FAire <hi>Cinthia</hi> the wide Oceans Empresse,</l>
+                  <l>I watry <hi>Nereus</hi> houered on the coast</l>
+                  <l>To greete your Maiesty with this my traine</l>
+                  <l>Of dauncing <hi>Tritons,</hi> and shrill singing Nimphs.</l>
+                  <l>But all in vaine: <hi>Elisa</hi> was not there;</l>
+                  <l>For which our <hi>Neptune</hi> grieud, and blamd the star,</l>
+                  <l>Whose thwarting influence dasht our longing hope.</l>
+                  <l>Therefore impatient, that this worthles earth</l>
+                  <l>Should beare your <hi>Highnes</hi> weight, and we sea Gods,</l>
+                  <l>(Whose iealous waues haue swallowd vp your foes,</l>
+                  <l>And to your Realme are walles impregnable)</l>
+                  <l>With such large fauour seldome time are grac't:</l>
+                  <l>I from the deepes haue drawen this winding slud,</l>
+                  <l>Whose crescent forme figures the rich increase</l>
+                  <l>Of all that sweet <hi>Elisa</hi> holdeth deare.</l>
+                  <l>And with me came gould-brested <hi>India,</hi>
+                  </l>
+                  <l>Who daunted at your sight, leapt to the shoare,</l>
+                  <l>And sprinkling endlesse treasure on this Ile,</l>
+                  <l>Left me this iewell to present your Grace,</l>
+                  <l>For hym, that vnder you doth hold this place.</l>
+                  <l>See where her ship remaines, whose silkewouen takling</l>
+                  <l>Is turnde to twigs, and threefold mast to trees,</l>
+                  <l>Receiuing life from verdure of your lookes;</l>
+                  <l>(For what cannot your gracious looks eflect?)</l>
+                  <l>You vgly monster creeping from the South,</l>
+                  <l>To spoyle these blessed fields of <hi>Albion,</hi>
+                  </l>
+                  <pb facs="tcp:193721:12"/>
+                  <l>By selfe same beames is chang'd into a Snaile,</l>
+                  <l>Whose bulrush hornes are not of force to hurt.</l>
+                  <l>As this Snaile is, so be thine enemies,</l>
+                  <l>And neuer yet did <hi>Nereus</hi> wishe in vaine.</l>
+                  <l>That Fort did <hi>Neptune</hi> raise, for your defence;</l>
+                  <l>And in this Barke, which gods hale neare the shore,</l>
+                  <l>VVhite footed <hi>Thetis</hi> sends her Musicke maydes,</l>
+                  <l>To please <hi>Elisaes</hi> eares with harmony.</l>
+                  <l>Hear them fair Queene: and when their Musick ends,</l>
+                  <l>My <hi>Triton</hi> shall awake the Syluane Gods,</l>
+                  <l>To doe their hommage to your Maiesty.</l>
+               </lg>
+            </sp>
+            <p>This Oration being deliuered, and withall the present wherof he spake, which was hidden in a purse of greene rushes, cunningly woauen together: immediatly the three voices in the Pinnace sung a song to the Lute with excellent diuisions, and the end of euery verse was repli<g ref="char:EOLhyphen"/>ed by Lutes and voices in the other boate som<g ref="char:EOLhyphen"/>what a farre off, as if they had beene Ecchoes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <lg>
+                           <head>THe Sea nymphes Dittie.</head>
+                           <l>HOw haps that now, when prime is don,</l>
+                           <l>An other spring time is begun?</l>
+                           <l>Our hemisphere is ouerrunne,</l>
+                           <l>With beauty of a second Sunne.</l>
+                        </lg>
+                        <l>
+                           <label>Eccho.</label>
+                           <hi>A second Sun.</hi>
+                        </l>
+                        <pb facs="tcp:193721:12"/>
+                        <lg>
+                           <l>VVHat second Sun hath raies so bright,</l>
+                           <l>To cause this vnacquainted light?</l>
+                           <l>Tis faire <hi>Elisaes</hi> matchlesse Grace,</l>
+                           <l>Who with her beames doth blesse the place,</l>
+                        </lg>
+                        <l>
+                           <label>Eccho.</label>
+                           <hi>Doth blesse the place.</hi>
+                        </l>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This song being ended, <hi>Nereus</hi> commanded the fiue <hi>Tritons</hi> to sound. Then came <hi>Syluanus</hi> with his attendants from the wood: himselfe at<g ref="char:EOLhyphen"/>tired from the midle downewards to the knee, in Kiddes skinnes, with the haire on, his legges, bodie and face naked, but died ouer with saf<g ref="char:EOLhyphen"/>fron, and his head hooded with a goates skin, and two little hornes ouer his forehead, bearing in his right hand an Oliue tree, and in his left a scutchion, whereof I spake somewhat before. his followers were all couered with Iuy leaues, and bare in their handes bowes made like darts. At their reproche neare her Maiesty, <hi>Syluanus</hi> spake as followeth, and deliuered vp his scut<g ref="char:EOLhyphen"/>chion, ingrauen with goulden characters, <hi>Nere<g ref="char:EOLhyphen"/>us</hi> and his traine still continuing near her High<g ref="char:EOLhyphen"/>nesse.</p>
+            <pb facs="tcp:193721:13"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oration">
+                        <sp>
+                           <lg>
+                              <head>The Oration of Sylua<g ref="char:EOLhyphen"/>nus.</head>
+                              <l>SYluanus comes from out the leauy groaues,</l>
+                              <l>To honor her, whom all the world adores,</l>
+                              <l>Faire <hi>Cinthia,</hi> whom no sooner Nature fram'd,</l>
+                              <l>And deckt with Fortunes, and with Vertues dower,</l>
+                              <l>But straight admiring what her skill had wrought,</l>
+                              <l>Shee broake the mould: that neuer Sunne might see</l>
+                              <l>The like to <hi>Albions</hi> Queene for excellence.</l>
+                           </lg>
+                           <lg>
+                              <l>Twas not the <hi>Tritons</hi> ayr-enforcing shell,</l>
+                              <l>As they perhaps would proudly make theyr vaunt,</l>
+                              <l>But those faire beames, that shoote from Maiesty,</l>
+                              <l>Which drew our eyes to wonder at thy worth.</l>
+                              <l>That worth breeds wonder; wonder holy feare;</l>
+                              <l>And holy feare vnfayned reuerence.</l>
+                              <l>Amongst the wanton dayes of goulden age</l>
+                              <l>
+                                 <hi>Apollo</hi> playing in our pleasant shades,</l>
+                              <l>And printing oracles in euery lease,</l>
+                              <l>Let fall this sacred scutchion from his brest,</l>
+                              <l>Wherein is writ, <hi>Detur dignissimae.</hi>
+                              </l>
+                              <l>O therefore hold, what heauen hath made thy right,</l>
+                              <l>I but in duety yeeld desert her due.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>Nereus.</speaker>
+                           <l>But see <hi>Syluanus</hi> where thy loue doth sit,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Syluanus.</speaker>
+                           <l>My sweet <hi>Neaera?</hi> was her eare so neare?</l>
+                           <l>O set my hearts delight vpon this banke,</l>
+                           <pb facs="tcp:193721:13"/>
+                           <l>That in compassion of old sufferance,</l>
+                           <l>Shee may relent in sight of beauties Queene.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Nereus.</speaker>
+                           <l>On this condition shall shee come on shoare.</l>
+                           <l>That with thy hand thou plight a solemne vow,</l>
+                           <l>Not to prophane her vndefiled state.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Syluanus.</speaker>
+                           <l>Here, take my hand, and therewithall I vowe,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Nereus.</speaker>
+                           <l>That water will extinguish wanton fire.</l>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Nereus in pronouncing this last line, did plucke Syluanus ouer head and eares into the water, where all the sea Gods laughing, did in<g ref="char:EOLhyphen"/>sult ouer him. In the meane while her Maie<g ref="char:EOLhyphen"/>sty perused the verses written in the scutchion, which were these.</p>
+            <q xml:lang="lat">
+               <l>Aönijs prior, &amp; Diuis es pulchrior alti</l>
+               <l>AEquoris, ac nymphis es prior Idalijs.</l>
+               <l>Idalijs prior es nymphis, ac aequoris alti.</l>
+               <l>Pulchrior &amp; Diuis, ac prior Aönijs.</l>
+            </q>
+            <p>Ouer these verses was this poesy written. <hi>De<g ref="char:EOLhyphen"/>tur dignissimae.</hi>
+            </p>
+            <p>After that the sea Gods had sufficiently duckt Syluanus, they suffered him to creepe to the land, where he no sooner set footing, but crying <hi>Reuenge, Reuenge,</hi> he and his, begunne a
+<pb facs="tcp:193721:14"/>skirmish with those of the water, the one side throwing their dartes, and the other vsing their squirtes, and the <hi>Tritons</hi> sounding a pointe of warre. At the last <hi>Nereus</hi> parted the fray with a line or two, grounded on the excellence of her Maiestyes presence, as being alwaies friend to peace, and ennemy to warre. Then <hi>Syluanus</hi> with his followers retired to the woods, and <hi>Neaera</hi> his faire loue in the Pinnace, presenting her Maiestie a Sea Iewell, bearing the forme of a fanne, spake vnto her as followeth.</p>
+            <sp>
+               <lg>
+                  <head>The Oration of faire <hi>Neaera.</hi>
+                  </head>
+                  <l>VVHen <hi>Neptune</hi> late bestowed on me this barke,</l>
+                  <l>And sent by me this present to your Grace:</l>
+                  <l>Thus <hi>Nereus</hi> sung, who neuer sings but truth.</l>
+                  <l>Thine eyes <hi>(Neaera)</hi> shall in time behold</l>
+                  <l>A sea-borne Queene, worthy to gouerne Kings,</l>
+                  <l>On her depends the Fortune of thy boate,</l>
+                  <l>If shee but name it with a blisfull word.</l>
+                  <l>And view it with her life inspiring beames.</l>
+                  <l>Her beames yeeld gentle influence, like fayre starres,</l>
+                  <l>Her siluer sounding word is prophesie.</l>
+                  <l>Speake sacred <hi>Sybill,</hi> giue some prosperous name,</l>
+                  <l>That it may dare attempt a golden fleece,</l>
+                  <l>Or diue for pearles, and lay them in thy lap.</l>
+                  <l>For winde and waues, and all the worlde besides,</l>
+                  <l>VVill make her way, whom thou shalt doome to blisse,</l>
+                  <l>For what is <hi>Sybils</hi> speech, but oracle?</l>
+               </lg>
+            </sp>
+            <pb facs="tcp:193721:14"/>
+            <p> Here her Maiesty named the Pinnace the <hi>Bonaduenture,</hi> and <hi>Neaera</hi> vvent on vvith her speech as followeth.</p>
+            <sp>
+               <lg>
+                  <l>I Now <hi>Neaeraes</hi> barke is fortunate,</l>
+                  <l>And in thy seruice shall imploy her saile,</l>
+                  <l>And often make returne to thy auaile.</l>
+                  <l>O liue in endlesse ioy, with glorious fame,</l>
+                  <l>Sound Trumpets, sound, in honor of her name.</l>
+               </lg>
+            </sp>
+            <p>Then did <hi>Nereus</hi> retire backe to his bovver vvith all his traine follovving him, in selfe same order as they came forth be<g ref="char:EOLhyphen"/>fore, the Tritons sounding their Trum<g ref="char:EOLhyphen"/>pets one halfe of the vvay, and the Cor<g ref="char:EOLhyphen"/>nets playing the other halfe. And here en<g ref="char:EOLhyphen"/>ded the second daies pastime, to the so great liking of her Maiestie, that her gra<g ref="char:EOLhyphen"/>cious approbation thereof, vvas to the A<g ref="char:EOLhyphen"/>ctors more then a double revvard, and yet vvithall, her Highnes bestovved a largesse vppon them the next daie after before shee departed.</p>
+         </div>
+         <div n="3" type="entertainment">
+            <pb facs="tcp:193721:15"/>
+            <head>THE THIRDE daies entertainement.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Wednesday morning, a<g ref="char:EOLhyphen"/>bout nine of the clock, as her Maiestie opened a casement of her gallerie vvindovv, ther vvere three excellent Musi<g ref="char:EOLhyphen"/>tians, vvho being disguised in auncient countrey attire, did greet her vvith a plea<g ref="char:EOLhyphen"/>sant song of Coridon and Phyllida, made in three parts of purpose. The song, as vvell for the vvorth of the Dittie, as for the aptnes of the note thereto applied, it plea<g ref="char:EOLhyphen"/>sed her Highnesse, after it had beene once sung, to command it againe, and highly to grace it vvith her chearefull acceptance and commendation.</p>
+            <pb facs="tcp:193721:15"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <lg>
+                           <head>The Plovvmans Song.</head>
+                           <l>IN the merrie moneth of May,</l>
+                           <l>In a morne, by breake of day,</l>
+                           <l>Forth J walked by the wood side,</l>
+                           <l>Where as <hi>May</hi> was i<gap reason="illegible" resp="#uom" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <gap reason="illegible" resp="#uom" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>s pride.</l>
+                           <l>There I spied all alone</l>
+                           <l>
+                              <hi>Phyllida</hi> and <hi>Corydon.</hi>
+                           </l>
+                           <l>Much adoe there was God wot,</l>
+                           <l>He would loue, and she would not.</l>
+                           <l>She said, neuer man was true:</l>
+                           <l>He said, none was false to you.</l>
+                           <l>He said, he had loued her long:</l>
+                           <l>She said, loue should haue no wrong.</l>
+                           <l>
+                              <hi>Coridon</hi> would kisse her then:</l>
+                           <l>She said, maides must kisse no men.</l>
+                           <l>Till they did for good and all.</l>
+                           <l>Then she made the shepheard call</l>
+                           <l>All the heauens to witnesse truth,</l>
+                           <l>Neuer lou'd a truer youth.</l>
+                           <l>Thus with many a pretie oath,</l>
+                           <l>Yea and nay, and faith and troth,</l>
+                           <l>Such as silly shepheards vse,</l>
+                           <l>When they will not loue abuse.</l>
+                           <l>Loue, which had beene long deluded,</l>
+                           <pb facs="tcp:193721:16"/>
+                           <l>Was with kisses sweet concluded:</l>
+                           <l>And <hi>Phyllida</hi> with garlands gay,</l>
+                           <l>Was made the Lady of the May.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The same day after dinne, about three of the clocke, ten of my L. of Hertfords seruants, al So<g ref="char:EOLhyphen"/>mersetshire men, in a square greene Court, be<g ref="char:EOLhyphen"/>fore her maiesties windowe, did hang vp lines, squaring out the forme of a Tennis-court, and making a crosse line in the midle. In this square they (beeing stript out of their dublets) played fiue to fiue with the hand-ball, at bord and cord (as they tearme it) to so great liking of her high<g ref="char:EOLhyphen"/>nes, that she graciously deyned to beholde their pastime more then an houre and a halfe.</p>
+            <p>After supper there were two delights presen<g ref="char:EOLhyphen"/>ted vnto her maiestie: curious fire-workes, and a sumptuous banket: the first from the three I<g ref="char:EOLhyphen"/>lands in the pond, the second in a lowe Gallerie in her maiesties priuie garden. But I will first briefly speake of the fire-works.</p>
+            <p>First there was a peale of a hundred Cham<g ref="char:EOLhyphen"/>bers discharged from the Snail-mount: in coun<g ref="char:EOLhyphen"/>ter wherof, a like peale was discharged from the Ship-Ile, &amp; some great ordinance withall. Then was ther a Castle of fire-works of al sorts, which played in the Fort. Answerable to that ther was in the Snail-mount, a Globe of all maner of fire<g ref="char:EOLhyphen"/>works, as big as a barrel. When these were spent
+<pb facs="tcp:193721:16"/>on either side, there were many running rockets vppon lines, which past betweene the Snayle<g ref="char:EOLhyphen"/>mount, and the Castle in the Fort. On either side were many fire wheeles, pikes of pleasure, &amp; balles of wilde fire, which burned in the water.</p>
+            <p>During the time of these fire-workes in the water, there was a banket serued all in glasse and siluer, into the low Gallerie in the Garden, from a hill side foureteene score off, by two hundred of my Lord of Hertfordes Gentlemen, euerie one carrying so many dishes, that the whole number amounted to a thousand: and there were to light them in their way, a hundred torch-bearers. To satissie the curious, I will here set downe some particulars in the banket.</p>
+            <list>
+               <item>Her Maiesties Armes in sugar-worke.</item>
+               <item>The seuerall Armes of all our Nobilitie in sugar<g ref="char:EOLhyphen"/>worke.</item>
+               <item>Many men and women in sugar-worke, and some in<g ref="char:EOLhyphen"/>forst by hand.</item>
+               <item>Castles, Forts, Ordinance, Drummers, Trumpeters, and soldiors of all sorts in sugar-worke.</item>
+               <item>Lions, Vnicorns, Beares, Horses, Camels, Buls, Rams, Dogges, Tygers, Elephants, Antelops, Dromeda<g ref="char:EOLhyphen"/>ries, Apes, and all other beasts in sugar-worke.</item>
+               <item>Egles, Falcons, Cranes, Bustardes, Heronshawes, Bytters, Pheasants, Partridges, Quailes, Larkes, Sparrowes, Pigeons, Cockes, Oules, and all that flie, in sugar-worke.</item>
+               <pb facs="tcp:193721:17"/>
+               <item>Snakes, adders, vipers, frogs, toades, and all kind of wormes in sugar-worke.</item>
+               <item>Mermaides, whales, dolphins, cungars, sturgions, pikes, carps, breams, and all sortes of fishes, in sugar<g ref="char:EOLhyphen"/>worke.</item>
+            </list>
+            <p>All these were standing dishes of sugar-work. The selfe same deuises were also there all in flat<g ref="char:EOLhyphen"/>worke. Moreouer these particulars following, and many such like, were in flat sugar-worke, and sinamond.</p>
+            <list>
+               <item>March-panes, grapes, oisters, muscles, cockles, pe<g ref="char:EOLhyphen"/>riwinckles, crabs, lobsters.</item>
+               <item>Apples, peares, and plums, of all sorts.</item>
+               <item>Preserues, suckats, iellies, leaches, marmelats, pasts comfits, of all sorts.</item>
+            </list>
+         </div>
+         <div n="4" type="entertainment">
+            <head>THE FOVRTH daies entertainment.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Thursday morning, her Maie<g ref="char:EOLhyphen"/>stie was no sooner readie, and at her Gallery window, looking in<g ref="char:EOLhyphen"/>to the Garden, but there began three Cornets to play certaine fantastike dances, at the measure
+<pb facs="tcp:193721:17"/>whereof the Fayery Queene came into the gar<g ref="char:EOLhyphen"/>den, dauncing with her maides about her. Shee<g ref="char:EOLhyphen"/>brought with her a garland made in fourme of an imperiall Crowne, within the sight of her Maiestie, shee fixed vpon a siluer staffe, and stic<g ref="char:EOLhyphen"/>king the staffe into the ground, spake as follo<g ref="char:EOLhyphen"/>weth.</p>
+            <sp>
+               <lg>
+                  <head>The speech of the Fairy Queene to her Maiestie.</head>
+                  <l>I That abide in places vnder ground,</l>
+                  <l>
+                     <hi>Aureola,</hi> the Queene of <hi>Fairy</hi> land,</l>
+                  <l>That euery night in rings of painted flowers</l>
+                  <l>Turne round, and carroll out <hi>Elisaes</hi> name:</l>
+                  <l>Hearing, that <hi>Nereus</hi> and the Syluane Gods</l>
+                  <l>Haue lately welcomde your <hi>Imperiall Grace,</hi>
+                  </l>
+                  <l>Oapend the earth with this enchanting wand,</l>
+                  <l>To doe my duety to your <hi>Maiestie.</hi>
+                  </l>
+                  <l>And humbly to salute you with this Chaplet,</l>
+                  <l>Giuen me by <hi>Auberon,</hi> the <hi>Fairy</hi> King.</l>
+                  <l>Bright shining <hi>Phoebe,</hi> that in humaine shape,</l>
+                  <l>Hid'st heauens perfection, vouchsafe t' accept it:</l>
+                  <l>And I <hi>Aureola,</hi> belou'd in heauen,</l>
+                  <l>(For amorous starres fall nightly in my lap)</l>
+                  <l>Will cause that heauens enlarge thy goulden dayes,</l>
+                  <l>And cut them short, that enuy at thy praise.</l>
+               </lg>
+            </sp>
+            <p>After this speech, the Fairy Queene and her maides daunced about the garland, singing a
+<pb facs="tcp:193721:18"/>song of sixe partes, with the musicke of an ex<g ref="char:EOLhyphen"/>quisite consort, wherein was the Lute, Bandora, Base-violl, Citterne, Treble-violl, and Flute, and this was the Fairies song.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <lg>
+                           <l>
+                              <hi>ELisa</hi> is the fairest Queene,</l>
+                           <l>That euer trod vpon this greene.</l>
+                           <l>
+                              <hi>Elisaes</hi> eyes are blessed starres,</l>
+                           <l>Jnducing peace, subduing warres.</l>
+                           <l>
+                              <hi>Elisaes</hi> hand is christall bright,</l>
+                           <l>Her wordes are balme, her lookes are light.</l>
+                           <l>
+                              <hi>Elisaes</hi> brest is that faire hill,</l>
+                           <l>Where vertue dwels, and sacred skill,</l>
+                           <l>O blessed bee each day and houre,</l>
+                           <l>Where sweete <hi>Elisa</hi> builds her bowre.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This spectacle and Musicke, so delighted her Maiesty, that shee desired to see and hear it twise ouer: and then dismist the actors with thankes, and with a gracious larges which of her excee<g ref="char:EOLhyphen"/>ding goodnesse shee bestowed vppon them.</p>
+            <p>Within an howre after, her Maiesty departed with her Nobles, from Eluetham. On the one fide of her way as shee past through the Parke, there was placed sitting on the Pond side, <hi>Nereus</hi> and all the Sea-gods in their former attire: on her left hand, <hi>Syluanus</hi> and his company: in the way before her the three Graces, and the three Howres: all of them on euerie side wringing
+<pb facs="tcp:193721:18"/>their hands, and shewing signe of sorow for her departure. While she beheld this dum shew, the Poet made her a short Oration, as followeth.</p>
+            <sp>
+               <lg>
+                  <head>The Poets speech at her Maiesties departure.</head>
+                  <l>O See sweet <hi>Cynthia,</hi> how the watry gods,</l>
+                  <l>Which ioyd of late to view thy glorious beames,</l>
+                  <l>At this retire doe waile and wring their hands,</l>
+                  <l>Distilling from their eyes salt showrs of teares,</l>
+                  <l>To bring in winter with their wet lament:</l>
+                  <l>For how can Sommer stay, when Sunne departs?</l>
+                  <l>See where <hi>Syluanus</hi> sits, and sadly mournes,</l>
+                  <l>To thinke that <hi>Autumn</hi> with his withered wings</l>
+                  <l>Will bring in tempest, when thy beames are hence:</l>
+                  <l>For how can sommer stay, when Sunne departs?</l>
+                  <l>See where those <hi>Graces,</hi> &amp; those <hi>Howrs</hi> of heau'n</l>
+                  <l>Which at thy comming sung triumphall songs,</l>
+                  <l>And smoothd the way, and strewd it with sweet flowrs,</l>
+                  <l>Now, if they durst, would stop it with greene bowes,</l>
+                  <l>Least by thine absence the yeeres pride decay:</l>
+                  <l>For how can sommer stay, when Sunne departs?</l>
+                  <l>Leaues fal, grasse dies, beasts of the wood hang head,</l>
+                  <l>Birds cease to sing, and euerie creature wailes,</l>
+                  <l>To see the season alter with this change:</l>
+                  <l>For how can sommer stay, when Sunne departs?</l>
+                  <l>O, either stay, or soone returne againe,</l>
+                  <l>For sommers parting is the countries paine.</l>
+               </lg>
+            </sp>
+            <pb facs="tcp:193721:19"/>
+            <p>After this, as her Maiestie passed through the Parke gate, there was a consort of Musitions hid<g ref="char:EOLhyphen"/>den in a bower, to whose playing this Dittie of <hi>Come againe</hi> was sung, with excellent diuision, by two, that were cunning.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <lg>
+                           <l>O Come againe faire Natures treasure,</l>
+                           <l>Whose lookes yeeld ioyes exceeding measure.</l>
+                        </lg>
+                        <lg>
+                           <l>O come againe heau'ns chiefe delight,</l>
+                           <l>Thine absence makes eternall night,</l>
+                        </lg>
+                        <lg>
+                           <l>O come againe worlds starbright eye,</l>
+                           <l>Whose presence doth adorne the skie.</l>
+                        </lg>
+                        <lg>
+                           <l>O come againe sweet beauties Sunne:</l>
+                           <l>When thou art gone, our ioyes are done.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Her Maiestie was so highly pleased with this and the rest, that shee openly protested to my Lord of Hertford, that the beginning, processe, and end of this his entertainment was so hono<g ref="char:EOLhyphen"/>rable, as hereafter hee should finde the rewarde thereof in her especiall fauour. And manie and most happie yeares may her gratious Ma<g ref="char:EOLhyphen"/>iestie continue, to fauour and foster him, and all others which do truly loue and honor her.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:193721:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
